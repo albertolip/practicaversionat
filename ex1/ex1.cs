@@ -12,11 +12,18 @@ namespace ex1
 {
     public partial class ex1 : Form
     {
+        /// <summary>
+        /// Constructor per defecte
+        /// </summary>
         public ex1()
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// metode per ingressar les dades
+        /// </summary>
+        /// <param name="sender">parametre per defecte</param>
+        /// <param name="e">parametre per defecte 2</param>
         private void button_ingresar_MouseClick(object sender, MouseEventArgs e)
         {
 
@@ -29,7 +36,11 @@ namespace ex1
             }
             else MessageBox.Show("Error Dades Incorrectes");
         }
-
+        /// <summary>
+        /// Metode per tancar la consola
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button_salir_MouseClick(object sender, MouseEventArgs e)
         {
             Application.Exit();     
