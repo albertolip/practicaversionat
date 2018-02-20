@@ -10,6 +10,9 @@ using System.Windows.Forms;
 
 namespace FormP2
 {
+    /// <summary>
+    /// Exercici 0 de la practica Form2
+    /// </summary>
     public partial class ex0 : Form
     {
         public ex0()
