@@ -22,7 +22,7 @@ namespace ex1
         /// <summary>
         /// metode per ingressar les dades
         /// </summary>
-        /// <param name="sender">parametre per defecte</param>
+        /// <param name="sender">parametre per defectes</param>
         /// <param name="e">parametre per defecte 2</param>
         private void button_ingresar_MouseClick(object sender, MouseEventArgs e)
         {
