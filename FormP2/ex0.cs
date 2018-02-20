@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace FormP2
 {
     /// <summary>
-    /// Exercici 0 de la practica Form2
+    /// Exercici 0 de la practica Form2 a
     /// </summary>
     public partial class ex0 : Form
     {
