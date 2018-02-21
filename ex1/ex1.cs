@@ -42,7 +42,7 @@ namespace ex1
         /// <param name="sender"></param>
         /// <param name="e"></param>
         private void button_salir_MouseClick(object sender, MouseEventArgs e)
-        {
+        {//provem de fer un canvi per pujar a una branca
             Application.Exit();     
                 
         }
