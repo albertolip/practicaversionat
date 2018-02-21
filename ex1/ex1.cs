@@ -22,7 +22,7 @@ namespace ex1
         /// <summary>
         /// metode per ingressar les dades
         /// </summary>
-        /// <param name="sender">parametre per defectes</param>
+        /// <param name="sender">parametre per defecte</param>
         /// <param name="e">parametre per defecte 2</param>
         private void button_ingresar_MouseClick(object sender, MouseEventArgs e)
         {
@@ -42,7 +42,7 @@ namespace ex1
         /// <param name="sender"></param>
         /// <param name="e"></param>
         private void button_salir_MouseClick(object sender, MouseEventArgs e)
-        {//provem de fer un canvi per pujar a una branca
+        {
             Application.Exit();     
                 
         }
